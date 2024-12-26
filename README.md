@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I’m Artyom, a data analyst with 5 years of experience in trading, banking, iGaming, and online media.
+I’m Artyom, a data analyst/scientist with 5 years of experience in trading, banking, iGaming, and online media.
 
 - 💡 Skilled in **Python**, **SQL**, and data visualization tools like **Tableau** and **Power BI**.
 - 🌐 Experienced with **MySQL**, **PostgreSQL**, **BigQuery**, and **AWS** for data engineering and cloud solutions.
