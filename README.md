@@ -47,6 +47,8 @@ I’m Artyom, a data analyst/scientist with 5 years of experience in trading, ba
 ![Airbyte](https://img.shields.io/badge/Airbyte-0000FF?style=for-the-badge&logo=airbyte&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache%20airflow&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-1E4DB7?style=for-the-badge&logo=dagster&logoColor=white)
+
 	
 ---
 
