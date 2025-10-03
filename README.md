@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I’m Artyom, a data analyst/scientist with 5 years of experience in trading, banking, iGaming, and online media.
+I’m Artyom, a data analyst/scientist/engineer with 6 years of experience in trading, banking, iGaming, online marketplaces, and online media.
 
 - 💡 Skilled in **Python**, **SQL**, and data visualization tools like **Tableau** and **Power BI**.
 - 🌐 Experienced with **MySQL**, **PostgreSQL**, **BigQuery**, and **AWS** for data engineering and cloud solutions.
@@ -42,6 +42,8 @@ I’m Artyom, a data analyst/scientist with 5 years of experience in trading, ba
 ![KNIME](https://img.shields.io/badge/KNIME-000000?style=for-the-badge&logo=knime&logoColor=yellow)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-0000FF?style=for-the-badge&logo=airbyte&logoColor=white)
