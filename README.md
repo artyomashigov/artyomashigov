@@ -11,8 +11,11 @@ I’m Artyom, a data analyst/scientist/engineer with 6 years of experience in tr
 - 🌍 Open to **remote**, **onsite**, or **hybrid** roles worldwide for consulting, full-time, freelance, or project-based work.
 
 ### 📈 GitHub Stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=artyomashigov&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-![Stats](https://github-profile-trophy.vercel.app/?username=artyomashigov&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub followers](https://img.shields.io/github/followers/artyomashigov?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/artyomashigov?style=for-the-badge&logo=github)
+![Profile views](https://komarev.com/ghpvc/?username=artyomashigov&style=for-the-badge&color=blueviolet)
+![Last commit](https://img.shields.io/github/last-commit/artyomashigov/aws-market-data-pipeline?style=for-the-badge&logo=github)
+
 ### 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/artyom-ashigov/)
 - [Portfolio](https://artyomashigov.github.io/portfolio/)
