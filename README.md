@@ -11,9 +11,9 @@ I’m Artyom, a data analyst/scientist/engineer with 6 years of experience in tr
 - 🌍 Open to **remote**, **onsite**, or **hybrid** roles worldwide for consulting, full-time, freelance, or project-based work.
 
 ### 📈 GitHub Stats:
-![Artyom's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=artyomashigov&show_icons=true&theme=radical&hide_rank=false)
-![Top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=artyomashigov&layout=donut&theme=radical&hide_border=false&langs_count=8)
-![Profile views](https://komarev.com/ghpvc/?username=artyomashigov&style=for-the-badge&color=blueviolet)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=artyomashigov&show_icons=true&theme=radical&hide_rank=false" alt="Artyom's GitHub stats" />
+</p>
 
 ### 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/artyom-ashigov/)
@@ -56,7 +56,6 @@ I’m Artyom, a data analyst/scientist/engineer with 6 years of experience in tr
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-	
 ---
 
 Feel free to connect with me or check out my projects here on GitHub! 🙂
