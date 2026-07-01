@@ -11,9 +11,7 @@ I’m Artyom, a data analyst/scientist/engineer with 6 years of experience in tr
 - 🌍 Open to **remote**, **onsite**, or **hybrid** roles worldwide for consulting, full-time, freelance, or project-based work.
 
 ### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=artyomashigov&show_icons=true&theme=radical&hide_rank=false" alt="Artyom's GitHub stats" />
-</p>
+![Artyom's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=artyomashigov&show_icons=true&theme=radical&hide_rank=false)
 
 ### 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/artyom-ashigov/)
